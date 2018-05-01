@@ -1,0 +1,9 @@
+MyList = [1,2,3,4,5]
+
+print(MyList)
+
+MyMap ={0:"Apple",1:"Banana",2:"Cats",3:"Dogs",4:"Eyes",5:"Darts"}
+
+for x in MyMap:
+    print(str(x) + ":" + MyMap[x])
+    
